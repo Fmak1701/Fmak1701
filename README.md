@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fmak1701
-- 👀 I’m interested in cybersecurity, privacy, open-source software, video game development
+- 👀 I’m interested in cybersecurity, privacy, open-source software, and video game development
 - 🌱 I’m currently learning C
 
 <!---
